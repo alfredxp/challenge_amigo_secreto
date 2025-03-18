@@ -40,7 +40,7 @@ Puedes acceder al proyecto desde el siguiente enlace: [Desafío de Amigos Secret
 
 Para clonar el repositorio, usa el siguiente comando:
 ```sh
-git clone https://github.com/dalvinxo/challenge_amigo_secreto.git
+git clone https://github.com/alfredxp/challenge_amigo_secreto.git
 ```
 ## Tecnologías utilizadas
 
