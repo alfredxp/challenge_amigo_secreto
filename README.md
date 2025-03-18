@@ -36,7 +36,7 @@ El Desafío de Amigos Secretos es una divertida herramienta que permite a los us
 
 ## Acceso proyecto
 
-Puedes acceder al proyecto desde el siguiente enlace: [Desafío de Amigos Secretos](https://github.com/alfredxp/challenge_amigo_secreto)
+Puedes acceder al proyecto desde el siguiente enlace: [Desafío de Amigos Secretos](https://alfredxp.github.io/challenge_amigo_secreto/)
 
 Para clonar el repositorio, usa el siguiente comando:
 ```sh
