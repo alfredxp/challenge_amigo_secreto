@@ -36,7 +36,7 @@ El Desafío de Amigos Secretos es una divertida herramienta que permite a los us
 
 ## Acceso proyecto
 
-Puedes acceder al proyecto desde el siguiente enlace: [Desafío de Amigos Secretos](https://github.com/dalvinxo/challenge_amigo_secreto)
+Puedes acceder al proyecto desde el siguiente enlace: [Desafío de Amigos Secretos](https://github.com/alfredxp/challenge_amigo_secreto)
 
 Para clonar el repositorio, usa el siguiente comando:
 ```sh
@@ -50,7 +50,7 @@ git clone https://github.com/dalvinxo/challenge_amigo_secreto.git
 
 ## Personas Desarrolladoras del Proyecto
 
-[<img src="https://avatars.githubusercontent.com/u/60835525?v=4" width=115><br><sub>Dalvin Molina</sub>](https://github.com/dalvinxo)
+[<img src="https://avatars.githubusercontent.com/u/108356280?v=4" width=115><br><sub>Luis Alfredo</sub>](https://github.com/alfredxp)
 
 ## Licencia
 
